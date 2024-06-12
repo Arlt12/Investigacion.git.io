@@ -1,0 +1,112 @@
+table,
+th,
+td {
+    border: 2px solid #111111;
+    border-collapse: collapse;
+    margin: auto;
+
+}
+
+table th {
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+table td {
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+* {
+    font-family: cursive;
+}
+img {
+    margin: auto;
+    padding: 10PX;
+    float: right;
+    margin-right: 50px;
+}
+
+header {
+    padding-block-end: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+
+}
+
+div {
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+#pie {
+    text-align: center;
+    padding: 25px;
+    
+}
+
+.lista {
+    padding: 25px;
+    background-color: rgb(0, 0, 0, 0.27);
+}
+.menu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color:rgba(218, 221, 222, 0.449);
+    overflow: hidden;
+    color: white;
+}
+.menu ul li{
+    float: right;
+}
+.menu ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 20px; 
+}
+.menu ul li a:hover {
+    background-color:beige;
+}
+
+
+
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: none; 
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color:antiquewhite;
+    color: black;
+    text-align: center;
+}
+blockquote {
+    border-left: 4px solid #bdd1be;
+    background-color: #f1f1f1;
+    padding: 20px 20px;
+    margin: 20px 0;
+}
+
+blockquote p {
+    margin: 0;
+}
